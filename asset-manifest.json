@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frog-game/static/css/main.78d8debb.css",
+    "main.js": "/frog-game/static/js/main.3d7f6bac.js",
+    "static/js/453.e599fb4f.chunk.js": "/frog-game/static/js/453.e599fb4f.chunk.js",
+    "index.html": "/frog-game/index.html",
+    "main.78d8debb.css.map": "/frog-game/static/css/main.78d8debb.css.map",
+    "main.3d7f6bac.js.map": "/frog-game/static/js/main.3d7f6bac.js.map",
+    "453.e599fb4f.chunk.js.map": "/frog-game/static/js/453.e599fb4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78d8debb.css",
+    "static/js/main.3d7f6bac.js"
+  ]
+}
